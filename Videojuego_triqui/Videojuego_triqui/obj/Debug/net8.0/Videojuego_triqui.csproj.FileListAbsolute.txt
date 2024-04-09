@@ -1,0 +1,14 @@
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\bin\Debug\net8.0\Videojuego_triqui.exe
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\bin\Debug\net8.0\Videojuego_triqui.deps.json
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\bin\Debug\net8.0\Videojuego_triqui.runtimeconfig.json
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\bin\Debug\net8.0\Videojuego_triqui.dll
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\bin\Debug\net8.0\Videojuego_triqui.pdb
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\Videojuego_triqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\Videojuego_triqui.AssemblyInfoInputs.cache
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\Videojuego_triqui.AssemblyInfo.cs
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\Videojuego_triqui.csproj.CoreCompileInputs.cache
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\Videojuego_triqui.dll
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\refint\Videojuego_triqui.dll
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\Videojuego_triqui.pdb
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\Videojuego_triqui.genruntimeconfig.cache
+C:\Users\Jonat\source\repos\Videojuego_triqui\Videojuego_triqui\obj\Debug\net8.0\ref\Videojuego_triqui.dll
